@@ -782,7 +782,7 @@ body {
         grid-template-columns: auto auto;
         grid-template-rows: auto auto;
         column-gap: 0;
-        row-gap: 0;
+        row-gap: 8vw;
         padding: 0 5.5vw;
     }
 
